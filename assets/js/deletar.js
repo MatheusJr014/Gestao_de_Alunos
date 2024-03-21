@@ -1,9 +1,9 @@
 
 function acao(){
-   returnar_page('Index.html')
+   retornar_page('Index.html')
  
 }
 
-function returnar_page(url){
+function retornar_page(url){
     window.location.href = url; 
 }
