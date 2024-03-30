@@ -1,5 +1,3 @@
-
-
 function login() {
     let descricao = document.getElementById('txtDescricao')
     let curso = document.getElementById('txtCurso')
